@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd754396.css",
+    "main.js": "/static/js/main.5e770631.js",
+    "static/js/463.eb9b0522.chunk.js": "/static/js/463.eb9b0522.chunk.js",
+    "static/js/759.feefee17.chunk.js": "/static/js/759.feefee17.chunk.js",
+    "static/js/903.fbb8cece.chunk.js": "/static/js/903.fbb8cece.chunk.js",
+    "static/js/565.01f8897d.chunk.js": "/static/js/565.01f8897d.chunk.js",
+    "static/js/725.513ef8dc.chunk.js": "/static/js/725.513ef8dc.chunk.js",
+    "static/media/mesh-grad-1.png": "/static/media/mesh-grad-1.cf76b23664aec5cf426d.png",
+    "static/media/mesh-grad-2.png": "/static/media/mesh-grad-2.a57bca82577a31a11949.png",
+    "static/media/whitepaper.pdf": "/static/media/whitepaper.b4d99c264bb8962f906e.pdf",
+    "static/media/overlay2.png": "/static/media/overlay2.1bb55ea4e30265cfed3e.png",
+    "static/media/overlay1.png": "/static/media/overlay1.255d30d7bd63181e8a2e.png",
+    "static/media/Fulllogo.png": "/static/media/Fulllogo.e56d6db01eef69dff77c.png",
+    "static/media/discord.svg": "/static/media/discord.028cbbedaa65f6d2ec34ae0ce5fbd34c.svg",
+    "static/media/scan.svg": "/static/media/scan.f331a75d166ba4c6ff63045d154de3ec.svg",
+    "static/media/twitter.svg": "/static/media/twitter.3fdaf1062157f64339eeb66962da7a79.svg",
+    "static/media/reddit.svg": "/static/media/reddit.defaed51736499c45e296ee7fbe95c24.svg",
+    "static/media/instagram.svg": "/static/media/instagram.ba6bbc6d8fd2ff5a6b476bb7f4c3ec96.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.9598fcdbeb03b25c66cada1058c56e8e.svg",
+    "static/media/telegram.svg": "/static/media/telegram.1cb1071a21c92309537dbf74c9f18afb.svg",
+    "static/media/medium.svg": "/static/media/medium.e45fa52c8622b1400736a156a2c728da.svg",
+    "static/media/depositearrow.svg": "/static/media/depositearrow.203ef5c91de982b32e31a764012ab35c.svg",
+    "index.html": "/index.html",
+    "static/media/chevron-down.svg": "/static/media/chevron-down.c1e0f6a255990e4439e77eca33c8824c.svg",
+    "main.fd754396.css.map": "/static/css/main.fd754396.css.map",
+    "main.5e770631.js.map": "/static/js/main.5e770631.js.map",
+    "463.eb9b0522.chunk.js.map": "/static/js/463.eb9b0522.chunk.js.map",
+    "759.feefee17.chunk.js.map": "/static/js/759.feefee17.chunk.js.map",
+    "903.fbb8cece.chunk.js.map": "/static/js/903.fbb8cece.chunk.js.map",
+    "565.01f8897d.chunk.js.map": "/static/js/565.01f8897d.chunk.js.map",
+    "725.513ef8dc.chunk.js.map": "/static/js/725.513ef8dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd754396.css",
+    "static/js/main.5e770631.js"
+  ]
+}
